@@ -1,0 +1,11 @@
+# Research data and trained model artifacts
+/dataset/
+/checkpoints/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Local IDE and OS files
+.idea/
+.DS_Store
