@@ -1,6 +1,6 @@
 # BladderSense: A Wearable Ultrasound System for Continuous Bladder Monitoring in Real-World Use
 
-![BladderSense model overview](BladderSense-Model.png)
+![BladderSense model overview](https://raw.githubusercontent.com/markmochi200/BladderSense/main/BladderSense-Model.png)
 
 ## Overview
 
@@ -87,4 +87,4 @@ For questions about the implementation, contact Junfan Xiang (Mark Heung) at [he
 
 ## License
 
-The licensing terms for this source code have not yet been specified.
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). See [LICENSE.md](LICENSE.md) for details.
