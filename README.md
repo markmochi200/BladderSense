@@ -1,6 +1,8 @@
 # BladderSense: A Wearable Ultrasound System for Continuous Bladder Monitoring in Real-World Use
 
-![BladderSense model overview](https://raw.githubusercontent.com/markmochi200/BladderSense/main/BladderSense-Model.png?v=original)
+![BladderSense model overview](./BladderSense-Model.png)
+
+[Open the model figure directly](./BladderSense-Model.png)
 
 ## Overview
 
