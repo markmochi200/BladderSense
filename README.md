@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the source code for **BladderSense**, a wearable ultrasound system for continuous bladder volume monitoring in real-world use. The system processes sagittal and transverse ultrasound images through shared feature extraction branches and estimates bladder volume with an attention-based regression model.
+This repository contains the official implementation demo for **BladderSense**, a wearable ultrasound system for continuous bladder volume monitoring in real-world use. The system processes sagittal and transverse ultrasound images through shared feature extraction branches and estimates bladder volume with an attention-based regression model.
 
 The work appears in the *Proceedings of the 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2026)*. See the [paper](https://doi.org/10.1145/3745756.3809187) for the full system design, methodology, and evaluation.
 
